@@ -1,0 +1,15 @@
+model,dv,eff@0,eff@50,eff@100
+Llama-3B,Engagement,0.591,0.294,-0.003
+Llama-3B,Difficulty Delta,0.251,0.003,-0.04
+Llama-8B,Engagement,0.552,0.614,0.676
+Llama-8B,Difficulty Delta,-0.053,0.03,-0.069
+Llama-11B,Engagement,1.037,0.86,0.683
+Llama-11B,Difficulty Delta,-0.138,0.027,-0.05
+Mistral-7B,Engagement,0.293,0.303,0.313
+Mistral-7B,Difficulty Delta,0.833,-0.139,0.183
+Qwen-7B,Engagement,-0.736,0.261,1.259
+Qwen-7B,Difficulty Delta,-0.125,0.092,-0.437
+Qwen-14B,Engagement,2.397,0.846,0.802
+Qwen-14B,Difficulty Delta,0.778,0.134,-0.039
+QwenVL-7B,Engagement,1.979,0.817,-0.345
+QwenVL-7B,Difficulty Delta,0.163,0.032,-0.083

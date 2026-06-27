@@ -1,0 +1,21 @@
+model,dv,degree,n_conditions,base_rise,pct_attenuating,pct_amplifying,mean_abs_change,direction_label,M,K,GA,DG
+Llama-1B,Engagement Score,1,4,0.0,0.0,100.0,1.28637731045096e+16,Consistently amplifying,2.59551641675675e+16,6727258224707900.0,6389498364748900.0,1.23831716610141e+16
+Llama-1B,Difficulty Delta,3,4,0.5183,25.0,75.0,22.4,Predominantly amplifying,-12.9,4.2,34.4,38.2
+Llama-3B,Engagement Score,1,4,2.9403,50.0,50.0,11.5,Mixed directional response,9.0,3.8,-17.2,-16.2
+Llama-3B,Difficulty Delta,2,4,0.6174,100.0,0.0,26.1,Consistently attenuating,-2.1,-12.2,-52.3,-37.7
+Llama-8B,Engagement Score,1,4,5.3741,50.0,50.0,18.8,Mixed directional response,-3.2,1.3,-68.9,1.8
+Llama-8B,Difficulty Delta,2,4,0.8526,100.0,0.0,25.2,Consistently attenuating,-16.8,-18.8,-63.6,-1.5
+Llama-11B,Engagement Score,1,4,5.2059,75.0,25.0,22.1,Predominantly attenuating,-4.1,1.0,-77.8,-5.4
+Llama-11B,Difficulty Delta,3,4,0.7381,75.0,25.0,24.3,Predominantly attenuating,-12.7,-12.4,-58.2,14.0
+Mistral-7B,Engagement Score,1,4,5.5652,75.0,25.0,14.2,Predominantly attenuating,-5.0,-7.2,-44.3,0.3
+Mistral-7B,Difficulty Delta,2,4,0.4287,50.0,50.0,58.0,Mixed directional response,6.6,4.3,-100.0,-121.2
+Qwen-7B,Engagement Score,1,4,3.8808,25.0,75.0,32.4,Predominantly amplifying,15.3,13.9,-59.3,41.1
+Qwen-7B,Difficulty Delta,3,4,0.7425,100.0,0.0,31.7,Consistently attenuating,-8.4,-16.1,-72.4,-29.9
+Qwen-14B,Engagement Score,2,4,4.565,75.0,25.0,19.9,Predominantly attenuating,-1.9,0.4,-49.4,-28.0
+Qwen-14B,Difficulty Delta,2,4,0.9132,100.0,0.0,37.0,Consistently attenuating,-5.3,-2.2,-69.0,-71.5
+Qwen-32B,Engagement Score,1,4,5.5822,25.0,75.0,24.6,Predominantly amplifying,3.5,9.1,-71.0,14.7
+Qwen-32B,Difficulty Delta,3,4,1.0808,50.0,50.0,22.7,Mixed directional response,-0.2,1.7,-80.5,8.2
+QwenVL-7B,Engagement Score,1,4,4.4512,50.0,50.0,29.4,Mixed directional response,2.8,6.0,-67.2,-41.8
+QwenVL-7B,Difficulty Delta,2,4,0.5938,50.0,50.0,29.8,Mixed directional response,14.0,23.6,-48.2,-33.1
+QwenVL-32B,Engagement Score,1,4,5.5799,75.0,25.0,18.4,Predominantly attenuating,-6.1,-2.3,-61.0,4.3
+QwenVL-32B,Difficulty Delta,2,4,1.2329,100.0,0.0,25.2,Consistently attenuating,-15.5,-15.2,-65.8,-4.3

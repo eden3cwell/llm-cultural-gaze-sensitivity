@@ -1,0 +1,15 @@
+model,dv,k,d_GA,d_DG,asymmetry_A,dg_direction,dg_sig_bins,ceiling_label
+Llama-3B,Engagement,1,0.151,0.252,0.403,+,4,Amplified
+Llama-3B,Difficulty Delta,2,-0.437,0.132,-0.306,+,6,At ceiling
+Llama-8B,Engagement,1,1.014,0.291,1.305,+,6,Amplified
+Llama-8B,Difficulty Delta,2,0.166,-0.003,0.163,-,1,At ceiling
+Llama-11B,Engagement,1,1.231,0.428,1.659,+,7,Amplified
+Llama-11B,Difficulty Delta,3,0.342,-0.041,0.301,-,5,At ceiling
+Mistral-7B,Engagement,1,0.277,0.145,0.422,+,2,At ceiling
+Mistral-7B,Difficulty Delta,2,0.33,0.421,0.751,+,7,Amplified
+Qwen-7B,Engagement,1,-0.274,0.143,-0.132,+,7,At ceiling
+Qwen-7B,Difficulty Delta,3,0.436,-0.111,0.325,-,4,At ceiling
+Qwen-14B,Engagement,2,0.618,0.69,1.308,+,8,Amplified
+Qwen-14B,Difficulty Delta,2,0.635,0.642,1.277,+,4,Amplified
+QwenVL-7B,Engagement,1,0.026,0.532,0.558,+,7,Amplified
+QwenVL-7B,Difficulty Delta,2,0.375,0.121,0.497,+,4,At ceiling

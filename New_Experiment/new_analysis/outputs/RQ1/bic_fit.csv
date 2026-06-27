@@ -1,0 +1,21 @@
+model,dv,n_obs,deg1_r2,deg2_r2,deg3_r2,deg1_bic,deg2_bic,deg3_bic,bic_degree,bic_r2,delta_r2_vs_linear,shape
+Llama-1B,Engagement,986,-inf,-inf,-inf,-64861.01,-57279.53,-46573.35,1,-inf,0.0,Flat
+Llama-1B,Difficulty Delta,986,0.491,0.5778,0.6525,-348.19,-525.64,-710.6,3,0.6525,0.1615,Sigmoidal
+Llama-3B,Engagement,1010,0.7591,0.7598,0.7603,1860.46,1864.45,1869.17,1,0.7591,0.0,Linear
+Llama-3B,Difficulty Delta,1010,0.4752,0.6385,0.6453,-32.92,-402.56,-414.74,3,0.6453,0.1701,Sigmoidal
+Llama-8B,Engagement,1010,0.9173,0.9185,0.9242,1807.17,1799.37,1732.8,3,0.9242,0.0069,Sigmoidal
+Llama-8B,Difficulty Delta,1010,0.7896,0.8511,0.8749,-817.06,-1159.22,-1328.04,3,0.8749,0.0853,Sigmoidal
+Llama-11B,Engagement,1010,0.9249,0.9303,0.9367,1637.24,1568.87,1478.67,3,0.9367,0.0118,Sigmoidal
+Llama-11B,Difficulty Delta,1010,0.7583,0.7922,0.8185,-887.52,-1033.06,-1162.92,3,0.8185,0.0602,Sigmoidal
+Mistral-7B,Engagement,1010,0.9535,0.9615,0.9618,1257.78,1074.29,1072.79,3,0.9618,0.0083,Sigmoidal
+Mistral-7B,Difficulty Delta,1010,0.3599,0.7347,0.7478,-288.52,-1171.18,-1215.53,3,0.7478,0.3879,Sigmoidal
+Qwen-7B,Engagement,1010,0.8462,0.8491,0.87,1858.28,1845.9,1701.98,3,0.87,0.0238,Sigmoidal
+Qwen-7B,Difficulty Delta,1010,0.7692,0.7823,0.8371,-918.51,-970.78,-1256.83,3,0.8371,0.0679,Sigmoidal
+Qwen-14B,Engagement,1010,0.8425,0.8896,0.8933,2214.83,1863.01,1835.05,3,0.8933,0.0508,Sigmoidal
+Qwen-14B,Difficulty Delta,1010,0.6333,0.8331,0.8332,105.66,-682.4,-676.26,2,0.8331,0.1998,Quadratic (Concave-down)
+Qwen2.5-32B,Engagement,1010,0.933,0.9425,0.9456,1653.94,1506.86,1458.19,3,0.9456,0.0126,Sigmoidal
+Qwen2.5-32B,Difficulty Delta,1010,0.8676,0.8988,0.9334,-857.4,-1122.37,-1537.89,3,0.9334,0.0658,Sigmoidal
+QwenVL-7B,Engagement,1010,0.8502,0.8647,0.8722,2104.15,2007.93,1957.54,3,0.8722,0.022,Sigmoidal
+QwenVL-7B,Difficulty Delta,1010,0.4899,0.8294,0.8459,-171.01,-1270.36,-1366.08,3,0.8459,0.356,Sigmoidal
+Qwen2.5-VL-32B,Engagement,1010,0.9198,0.9339,0.9381,1849.86,1661.74,1602.18,3,0.9381,0.0183,Sigmoidal
+Qwen2.5-VL-32B,Difficulty Delta,1010,0.8526,0.9165,0.9192,-508.42,-1075.31,-1102.25,3,0.9192,0.0666,Sigmoidal

@@ -1,0 +1,21 @@
+model,dv,n_obs,ferguson_degree,shape,beta0,beta1,beta2,beta3,r2
+Llama-1B,Engagement,986,1,Flat,5.0,0.0,,,-inf
+Llama-1B,Difficulty Delta,986,3,Sigmoidal,0.108319,-0.00587,0.00048447,-3.9668e-06,0.6525
+Llama-3B,Engagement,1010,1,Linear,5.114793,0.036754,,,0.7591
+Llama-3B,Difficulty Delta,1010,2,Quadratic (Concave-down),-0.541636,0.025069,-0.00017352,,0.6385
+Llama-8B,Engagement,1010,1,Linear,2.734246,0.067176,,,0.9173
+Llama-8B,Difficulty Delta,1010,2,Quadratic (Concave-down),-0.791253,0.022062,-0.00011405,,0.8511
+Llama-11B,Engagement,1010,1,Linear,2.769074,0.065074,,,0.9249
+Llama-11B,Difficulty Delta,1010,3,Sigmoidal,-0.518909,0.001354,0.00031776,-2.6268e-06,0.8185
+Mistral-7B,Engagement,1010,1,Linear,2.829645,0.069566,,,0.9535
+Mistral-7B,Difficulty Delta,1010,2,Quadratic (Concave-down),-0.674753,0.02633,-0.00020972,,0.7347
+Qwen-7B,Engagement,1010,1,Linear,3.335877,0.04851,,,0.8462
+Qwen-7B,Difficulty Delta,1010,3,Sigmoidal,-0.425967,-0.008468,0.00052507,-3.8196e-06,0.8371
+Qwen-14B,Engagement,1010,2,Quadratic (Concave-down),2.336639,0.108808,-0.00051746,,0.8896
+Qwen-14B,Difficulty Delta,1010,2,Quadratic (Concave-down),-1.004264,0.036003,-0.00024589,,0.8331
+Qwen2.5-32B,Engagement,1010,1,Linear,2.061619,0.069778,,,0.933
+Qwen2.5-32B,Difficulty Delta,1010,3,Sigmoidal,-0.816618,-0.000802,0.00051882,-4.1286e-06,0.9334
+QwenVL-7B,Engagement,1010,1,Linear,3.765521,0.05564,,,0.8502
+QwenVL-7B,Difficulty Delta,1010,2,Quadratic (Concave-down),-0.733349,0.031121,-0.00023698,,0.8294
+Qwen2.5-VL-32B,Engagement,1010,1,Linear,2.354164,0.069748,,,0.9198
+Qwen2.5-VL-32B,Difficulty Delta,1010,2,Quadratic (Concave-down),-1.095458,0.031594,-0.00016182,,0.9165

@@ -1,0 +1,15 @@
+model,dv,n_obs,sigma2,deg1_r2,deg2_r2,deg3_r2,bic_degree,ferguson_degree,bic_ferguson_agree,ferguson_r2,delta_r2_vs_linear,last_term_gain,shape
+Llama-3B,Engagement Score,1010,0.0684,0.7591,0.7598,0.7603,1,1,yes,0.7591,0.0,0.0,Linear
+Llama-3B,Difficulty Delta,1010,0.0269,0.4752,0.6385,0.6453,3,2,NO,0.6385,0.1633,0.1633,Concave-down
+Llama-8B,Engagement Score,1010,0.055,0.9173,0.9185,0.9242,3,1,NO,0.9173,0.0,0.0,Linear
+Llama-8B,Difficulty Delta,1010,0.0067,0.7896,0.8511,0.8749,3,2,NO,0.8511,0.0615,0.0615,Concave-down
+Llama-11B,Engagement Score,1010,0.0516,0.9249,0.9303,0.9367,3,1,NO,0.9249,0.0,0.0,Linear
+Llama-11B,Difficulty Delta,1010,0.0083,0.7583,0.7922,0.8185,3,3,yes,0.8185,0.0602,0.0263,Concave-up
+Mistral-7B,Engagement Score,1010,0.0261,0.9535,0.9615,0.9618,3,1,NO,0.9535,0.0,0.0,Linear
+Mistral-7B,Difficulty Delta,1010,0.0068,0.3599,0.7347,0.7478,3,2,NO,0.7347,0.3748,0.3748,Concave-down
+Qwen-7B,Engagement Score,1010,0.045,0.8462,0.8491,0.87,3,1,NO,0.8462,0.0,0.0,Linear
+Qwen-7B,Difficulty Delta,1010,0.0025,0.7692,0.7823,0.8371,3,3,yes,0.8371,0.0679,0.0548,Concave-up
+Qwen-14B,Engagement Score,1010,0.0246,0.8425,0.8896,0.8933,3,2,NO,0.8896,0.0471,0.0471,Concave-down
+Qwen-14B,Difficulty Delta,1010,0.0035,0.6333,0.8331,0.8332,2,2,yes,0.8331,0.1998,0.1998,Concave-down
+QwenVL-7B,Engagement Score,1010,0.0822,0.8502,0.8647,0.8722,3,1,NO,0.8502,0.0,0.0,Linear
+QwenVL-7B,Difficulty Delta,1010,0.0039,0.4899,0.8294,0.8459,3,2,NO,0.8294,0.3395,0.3395,Concave-down

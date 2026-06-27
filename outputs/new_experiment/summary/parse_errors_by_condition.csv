@@ -1,0 +1,11 @@
+model,baseline,maori,kaumatua,gaze_aversion,direct_gaze_explicit
+Llama-1B,24,13,6,0,1
+Llama-3B,0,0,0,0,0
+Mistral-7B,0,0,0,0,0
+Qwen-7B,0,0,0,0,0
+QwenVL-7B,0,0,0,0,0
+Llama-8B,0,0,0,0,0
+Llama-11B,0,0,0,0,0
+Qwen-14B,0,0,0,0,0
+Qwen-32B,0,0,0,0,0
+QwenVL-32B,0,0,0,0,0
